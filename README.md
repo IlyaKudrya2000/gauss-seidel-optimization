@@ -27,7 +27,7 @@
 
 1. **Клонируйте** репозиторий или скачайте архив с проектом:
    ```bash
-   git clone https://github.com/<ваш_ник>/<название_репозитория>.git
+   git clone https://github.com/IlyaKudrya2000/gauss-seidel-optimization
    ```
 2. **Перейдите** в папку проекта:
    ```bash
